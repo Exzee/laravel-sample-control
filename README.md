@@ -33,10 +33,6 @@
 4. Sample Management for Analysis in Laborat
 5. Management User Roles
 
-## -----------------------
-
-=======
-
 ## Laravel CRUD Engine
 
 <p>Laravel 9</p>
