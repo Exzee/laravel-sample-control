@@ -28,6 +28,7 @@
 2. Sample Received Management
 3. Sample Out
 4. Sample Management for Analysis in Laborat
+5. Management User Roles
 
 ## ----------------------- ##
 Thank You 😁😁😁
