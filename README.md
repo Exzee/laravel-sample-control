@@ -29,7 +29,7 @@
 
 1. Employee Management
 2. Sample Received Management
-3. Sample Out
+3. Sample In-Out
 4. Sample Management for Analysis in Laborat
 5. Management User Roles
 
